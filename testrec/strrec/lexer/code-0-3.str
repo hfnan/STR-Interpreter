@@ -1,0 +1,15 @@
+var five = 5
+var ten = 10
+var add(x, y) = x + y
+var result = { add(five, ten) }
+-*/5
+5 < 10 > 5
+
+var asw =
+    test 5 < 10 :
+        return true
+    else :
+        return false
+
+10 == 10
+10 != 9
